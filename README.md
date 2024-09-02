@@ -5,8 +5,25 @@ This directory contains the papers that as reference for the project.
 |No|Title|Studio Lab|Kaggle|Colab|Description|Researcher|
 |---|---|---|---|---|---|---|
 |1|[Text2SQL is Not Enough: Unifying AI and Databases with TAG](text2SQL/2408.14717v1.pdf)||||Answering natural language questions over databases|[Bowen](https://github.com/Aisuko), [Yuwei](https://github.com/wangyuweikiwi)|
+|2|[LOTUS: Enabling Semantic Queries with LLMs Over Tables of Unstructured and Structured Data](mimic_paper/LOTUS.pdf)||||Answering natural language questions over databases|[Bowen](https://github.com/Aisuko), [Yuwei](https://github.com/wangyuweikiwi)|
 
 # Medical
+
+![](img/mimic_xmind.svg)
+
+## mimic-iv paper
+
+|No|Title|Studio Lab|Kaggle|Colab|Description|Researcher|
+|---|---|---|---|---|---|---|
+|1|[An Extensive Data Processing Pipeline for MIMIC-IV](mimic_paper/MIMICIV.pdf)||||Basic structure of data extract pipeline|[Bowen](https://github.com/Aisuko), [Yuwei](https://github.com/wangyuweikiwi)|
+|2|[Event Stream GPT: A Data Pre-processing and Modeling Library for Generative, Pre-trained Transformers over Continuous-time Sequences of Complex Events](mimic_paper/Event%20Stream%20GPT.pdf)||||Answering natural language questions over databases|[Bowen](https://github.com/Aisuko), [Yuwei](https://github.com/wangyuweikiwi)|
+|3|[A Multidatabase ExTRaction PipEline (METRE) for Facile Cross Validation in Critical Care Research](mimic_paper/METRE.pdf)||||Answering natural language questions over databases|[Bowen](https://github.com/Aisuko), [Yuwei](https://github.com/wangyuweikiwi)|
+|4|[INTERPOLATION-PREDICTION NETWORKS FOR IRREGULARLY SAMPLED TIME SERIES](mimic_paper/IP-Net.pdf)||||Answering natural language questions over databases|[Bowen](https://github.com/Aisuko), [Yuwei](https://github.com/wangyuweikiwi)|
+|5|[MULTI-TIME ATTENTION NETWORKS FOR IRREGULARLY SAMPLED TIME SERIES](mimic_paper/mTAN.pdf)||||Answering natural language questions over databases|[Bowen](https://github.com/Aisuko), [Yuwei](https://github.com/wangyuweikiwi)|
+|6|[Heteroscedastic Temporal Variational Autoencoder For Irregularly Sampled Time Series](mimic_paper/HeTVAE.pdf)||||Answering natural language questions over databases|[Bowen](https://github.com/Aisuko), [Yuwei](https://github.com/wangyuweikiwi)|
+|7|[A Multidatabase ExTRaction PipEline (METRE) for Facile Cross Validation in Critical Care Research](mimic_paper/METRE.pdf)||||Answering natural language questions over databases|[Bowen](https://github.com/Aisuko), [Yuwei](https://github.com/wangyuweikiwi)|
+|8|[A Multidatabase ExTRaction PipEline (METRE) for Facile Cross Validation in Critical Care Research](mimic_paper/METRE.pdf)||||Answering natural language questions over databases|[Bowen](https://github.com/Aisuko), [Yuwei](https://github.com/wangyuweikiwi)|
+
 
 ## mimic-iv datasets
 
@@ -15,6 +32,8 @@ This directory contains the papers that as reference for the project.
 |1|Raw MIMIC-IV v1.0|[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/aisuko/pre-download-mimic-iv-v1-0-dataset)||Private|[Yuwei](https://github.com/wangyuweikiwi)|
 |2|Raw MIMIC-IV v2.0|[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/aisuko/pre-download-mimic-iv-v2-0-dataset)||Private|[Yuwei](https://github.com/wangyuweikiwi)|
 |3|Raw MIMIC-IV v2.0||[![Huggingface](https://huggingface.co/datasets/huggingface/badges/resolve/main/dataset-on-hf-sm-dark.svg)](https://huggingface.co/datasets/skywardai/mimic-iv)|Private|[Yuwei](https://github.com/wangyuweikiwi)|
+
+
 
 
 # Security
