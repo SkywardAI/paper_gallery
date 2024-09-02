@@ -9,22 +9,23 @@ This directory contains the papers that as reference for the project.
 
 # Medical
 
-![](img/mimic_xmind.svg)
+![](img/MIMIC_Mind%20Map.svg).svg)
 
 ## mimic-iv paper
 
 |No|Title|Studio Lab|Kaggle|Colab|Description|Researcher|
 |---|---|---|---|---|---|---|
 |1|[MIMIC-Extract: A Data Extraction, Preprocessing, and Representation Pipeline for MIMIC-III](mimic_paper/MIMIC-Extract.pdf)|||||[Bowen](https://github.com/Aisuko), [Yuwei](https://github.com/wangyuweikiwi)|
-|1|[Democratizing EHR analyses with FIDDLE: a flexible data- driven preprocessing pipeline for structured clinical data](mimic_paper/FIDDLE.pdf)|||||[Bowen](https://github.com/Aisuko), [Yuwei](https://github.com/wangyuweikiwi)|
-|1|[An Extensive Data Processing Pipeline for MIMIC-IV](mimic_paper/MIMICIV.pdf)||||Basic structure of data extract pipeline|[Bowen](https://github.com/Aisuko), [Yuwei](https://github.com/wangyuweikiwi)|
-|2|[Event Stream GPT: A Data Pre-processing and Modeling Library for Generative, Pre-trained Transformers over Continuous-time Sequences of Complex Events](mimic_paper/Event%20Stream%20GPT.pdf)|||||[Bowen](https://github.com/Aisuko), [Yuwei](https://github.com/wangyuweikiwi)|
-|3|[A Multidatabase ExTRaction PipEline (METRE) for Facile Cross Validation in Critical Care Research](mimic_paper/METRE.pdf)|||||[Bowen](https://github.com/Aisuko), [Yuwei](https://github.com/wangyuweikiwi)|
-|4|[INTERPOLATION-PREDICTION NETWORKS FOR IRREGULARLY SAMPLED TIME SERIES](mimic_paper/IP-Net.pdf)|||||[Bowen](https://github.com/Aisuko), [Yuwei](https://github.com/wangyuweikiwi)|
+|2|[Democratizing EHR analyses with FIDDLE: a flexible data- driven preprocessing pipeline for structured clinical data](mimic_paper/FIDDLE.pdf)|||||[Bowen](https://github.com/Aisuko), [Yuwei](https://github.com/wangyuweikiwi)|
+|3|[An Extensive Data Processing Pipeline for MIMIC-IV](mimic_paper/MIMICIV.pdf)||||Basic structure of data extract pipeline|[Bowen](https://github.com/Aisuko), [Yuwei](https://github.com/wangyuweikiwi)|
+|4|[A Multidatabase Extraction Pipeline (METRE) for Facile Cross Validation in Critical Care Research](mimic_paper/MIMICIV.pdf)||||Basic structure of data extract pipeline|[Bowen](https://github.com/Aisuko), [Yuwei](https://github.com/wangyuweikiwi)|
+|5|[Event Stream GPT: A Data Pre-processing and Modeling Library for Generative, Pre-trained Transformers over Continuous-time Sequences of Complex Events](mimic_paper/Event%20Stream%20GPT.pdf)|||||[Bowen](https://github.com/Aisuko), [Yuwei](https://github.com/wangyuweikiwi)|
+|6|[INTERPOLATION-PREDICTION NETWORKS FOR IRREGULARLY SAMPLED TIME SERIES](mimic_paper/IP-Net.pdf)|||||[Bowen](https://github.com/Aisuko), [Yuwei](https://github.com/wangyuweikiwi)|
 |5|[MULTI-TIME ATTENTION NETWORKS FOR IRREGULARLY SAMPLED TIME SERIES](mimic_paper/mTAN.pdf)|||||[Bowen](https://github.com/Aisuko), [Yuwei](https://github.com/wangyuweikiwi)|
 |6|[Heteroscedastic Temporal Variational Autoencoder For Irregularly Sampled Time Series](mimic_paper/HeTVAE.pdf)|||||[Bowen](https://github.com/Aisuko), [Yuwei](https://github.com/wangyuweikiwi)|
-|7|[A Multidatabase ExTRaction PipEline (METRE) for Facile Cross Validation in Critical Care Research](mimic_paper/METRE.pdf)|||||[Bowen](https://github.com/Aisuko), [Yuwei](https://github.com/wangyuweikiwi)|
-|8|[A Multidatabase ExTRaction PipEline (METRE) for Facile Cross Validation in Critical Care Research](mimic_paper/METRE.pdf)|||||[Bowen](https://github.com/Aisuko), [Yuwei](https://github.com/wangyuweikiwi)|
+|7|[Multitask learning and benchmarking with clinical time series data](mimic_paper/METRE.pdf)|||||[Bowen](https://github.com/Aisuko), [Yuwei](https://github.com/wangyuweikiwi)|
+|8|[Using Clinical Notes with Time Series Data for ICU Management](mimic_paper/METRE.pdf)|||||[Bowen](https://github.com/Aisuko), [Yuwei](https://github.com/wangyuweikiwi)|
+|9|[Predicting in-hospital mortality by combining clinical notes with time-series data](mimic_paper/METRE.pdf)|||||[Bowen](https://github.com/Aisuko), [Yuwei](https://github.com/wangyuweikiwi)|
 
 
 ## mimic-iv datasets
