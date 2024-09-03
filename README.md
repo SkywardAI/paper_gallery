@@ -9,7 +9,7 @@ This directory contains the papers that as reference for the project.
 
 # Medical
 
-![](img/MIMIC_Mind%20Map.svg).svg)
+![](img/MIMIC_Mind%20Map.svg)
 
 ## mimic-iv paper
 
