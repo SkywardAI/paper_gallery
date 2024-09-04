@@ -18,13 +18,13 @@ This directory contains the papers that as reference for the project.
 |1|[MIMIC-Extract: A Data Extraction, Preprocessing, and Representation Pipeline for MIMIC-III](mimic_paper/MIMIC-Extract.pdf)|||||[Bowen](https://github.com/Aisuko), [Yuwei](https://github.com/wangyuweikiwi)|
 |2|[Democratizing EHR analyses with FIDDLE: a flexible data- driven preprocessing pipeline for structured clinical data](mimic_paper/FIDDLE.pdf)|||||[Bowen](https://github.com/Aisuko), [Yuwei](https://github.com/wangyuweikiwi)|
 |3|[An Extensive Data Processing Pipeline for MIMIC-IV](mimic_paper/MIMICIV%20Pipeline.pdf)||||Basic structure of data extract pipeline|[Bowen](https://github.com/Aisuko), [Yuwei](https://github.com/wangyuweikiwi)|
-|5|[Event Stream GPT: A Data Pre-processing and Modeling Library for Generative, Pre-trained Transformers over Continuous-time Sequences of Complex Events](mimic_paper/Event%20Stream%20GPT.pdf)|||||[Bowen](https://github.com/Aisuko), [Yuwei](https://github.com/wangyuweikiwi)|
-|6|[INTERPOLATION-PREDICTION NETWORKS FOR IRREGULARLY SAMPLED TIME SERIES](mimic_paper/IP-Net.pdf)|||||[Bowen](https://github.com/Aisuko), [Yuwei](https://github.com/wangyuweikiwi)|
-|5|[MULTI-TIME ATTENTION NETWORKS FOR IRREGULARLY SAMPLED TIME SERIES](mimic_paper/mTAN.pdf)|||||[Bowen](https://github.com/Aisuko), [Yuwei](https://github.com/wangyuweikiwi)|
-|6|[Heteroscedastic Temporal Variational Autoencoder For Irregularly Sampled Time Series](mimic_paper/HeTVAE.pdf)|||||[Bowen](https://github.com/Aisuko), [Yuwei](https://github.com/wangyuweikiwi)|
-|7|[Multitask learning and benchmarking with clinical time series data](mimic_paper/MIMIC-III%20Benchmarking.pdf)|||||[Bowen](https://github.com/Aisuko), [Yuwei](https://github.com/wangyuweikiwi)|
-|8|[Using Clinical Notes with Time Series Data for ICU Management](mimic_paper/Fusion.pdf)|||||[Bowen](https://github.com/Aisuko), [Yuwei](https://github.com/wangyuweikiwi)|
-|9|[Predicting in-hospital mortality by combining clinical notes with time-series data](mimic_paper/BERT.pdf)|||||[Bowen](https://github.com/Aisuko), [Yuwei](https://github.com/wangyuweikiwi)|
+|4|[Event Stream GPT: A Data Pre-processing and Modeling Library for Generative, Pre-trained Transformers over Continuous-time Sequences of Complex Events](mimic_paper/Event%20Stream%20GPT.pdf)|||||[Bowen](https://github.com/Aisuko), [Yuwei](https://github.com/wangyuweikiwi)|
+|5|[INTERPOLATION-PREDICTION NETWORKS FOR IRREGULARLY SAMPLED TIME SERIES](mimic_paper/IP-Net.pdf)|||||[Bowen](https://github.com/Aisuko), [Yuwei](https://github.com/wangyuweikiwi)|
+|6|[MULTI-TIME ATTENTION NETWORKS FOR IRREGULARLY SAMPLED TIME SERIES](mimic_paper/mTAN.pdf)|||||[Bowen](https://github.com/Aisuko), [Yuwei](https://github.com/wangyuweikiwi)|
+|7|[Heteroscedastic Temporal Variational Autoencoder For Irregularly Sampled Time Series](mimic_paper/HeTVAE.pdf)|||||[Bowen](https://github.com/Aisuko), [Yuwei](https://github.com/wangyuweikiwi)|
+|8|[Multitask learning and benchmarking with clinical time series data](mimic_paper/MIMIC-III%20Benchmarking.pdf)|||||[Bowen](https://github.com/Aisuko), [Yuwei](https://github.com/wangyuweikiwi)|
+|9|[Using Clinical Notes with Time Series Data for ICU Management](mimic_paper/Fusion.pdf)|||||[Bowen](https://github.com/Aisuko), [Yuwei](https://github.com/wangyuweikiwi)|
+|10|[Predicting in-hospital mortality by combining clinical notes with time-series data](mimic_paper/BERT.pdf)|||||[Bowen](https://github.com/Aisuko), [Yuwei](https://github.com/wangyuweikiwi)|
 
 
 ## mimic-iv datasets
