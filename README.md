@@ -32,8 +32,8 @@ This directory contains the papers that as reference for the project.
 |No|Title|List on Kaggle|Huggingface|Description|Researcher|
 |---|---|---|---|---|---|
 |1|Raw MIMIC-IV v1.0|[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/aisuko/pre-download-mimic-iv-v1-0-dataset)||Private|[Yuwei](https://github.com/wangyuweikiwi)|
-|2|Raw MIMIC-IV v2.0|[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/aisuko/pre-download-mimic-iv-v2-0-dataset)||Private|[Yuwei](https://github.com/wangyuweikiwi)|
-|3|Raw MIMIC-IV v2.0||[![Huggingface](https://huggingface.co/datasets/huggingface/badges/resolve/main/dataset-on-hf-sm-dark.svg)](https://huggingface.co/datasets/skywardai/mimic-iv)|Private|[Yuwei](https://github.com/wangyuweikiwi)|
+|2|Raw MIMIC-IV v2.0|[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/datasets/skywardai/mimic-iv-classification-regression-tasks/data)||Public|[Yuwei](https://github.com/wangyuweikiwi)|
+|3|Raw MIMIC-IV v2.0||[![Huggingface](https://huggingface.co/datasets/huggingface/badges/resolve/main/dataset-on-hf-sm-dark.svg)](https://huggingface.co/datasets/aisuko/mimic_iv_classification_regression_tasks)|Public|[Yuwei](https://github.com/wangyuweikiwi)|
 
 
 
